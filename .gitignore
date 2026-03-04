@@ -1,0 +1,5 @@
+temp*
+*pycache*
+**/__pycache__
+*online*
+log*
