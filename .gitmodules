@@ -1,0 +1,3 @@
+[submodule "slam_utils"]
+	path = slam_utils
+	url = https://github.com/starcraftvs/slam_utils.git
