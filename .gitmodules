@@ -1,3 +1,0 @@
-[submodule "external/slam_utils"]
-	path = external/slam_utils
-	url = https://github.com/starcraftvs/slam_utils.git
